@@ -1,2 +1,2 @@
-# data-science-portfolio
+# Data science portfolio
 Python, SQL, ML, and other data related projects. 
